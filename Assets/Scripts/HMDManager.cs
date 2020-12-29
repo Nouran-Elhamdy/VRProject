@@ -7,8 +7,8 @@ public class HMDManager : MonoBehaviour
 {
     void Start()
     {
-        Debug.Log("is Device active: " + XRSettings.isDeviceActive);
-        Debug.Log("Active Device name: " + XRSettings.loadedDeviceName);
+        //Debug.Log("is Device active: " + XRSettings.isDeviceActive);
+        //Debug.Log("Active Device name: " + XRSettings.loadedDeviceName);
     }
 
    
